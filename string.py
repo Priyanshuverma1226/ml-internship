@@ -1,0 +1,10 @@
+name="sImRan"
+print(name[-2])
+print(name[0:3])
+print(name.upper())
+print(name.lower())
+print(name.capitalize())
+print(name.endswith('p'))
+print(name.isalpha())
+print(name.isalnum())
+print(name.islower())
