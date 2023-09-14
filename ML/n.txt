@@ -1,0 +1,6 @@
+y=f(x)
+y=inc(2)
+
+
+def inc(x):
+    return x+5
